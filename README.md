@@ -1,2 +1,2 @@
 # metar-on-py
-A metar-service based on CheckWX and python
+A source code of metar-service based on CheckWX and python
